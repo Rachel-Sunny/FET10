@@ -1,0 +1,33 @@
+-Graphical User Interface (GUI) / Command-line Interface (CLI)
+open the folder	
+powershell zsh
+
+- Make directory
+mkdir [directory-name]
+
+- Delete directory
+rmdir [directory-name]
+
+- Rename directory
+mv [oldfoldername] [newfoldername]
+
+- Print/Present Working Directory
+pwd
+
+- List all files and folders
+ls
+
+- Change directory
+cd
+
+- Go back one folder
+cd ..
+
+- Create a file
+touch [filename.extension]
+
+-rename file
+mv[oldfilename][newfilename]
+
+- Delete a file
+rm [filename.extension]
